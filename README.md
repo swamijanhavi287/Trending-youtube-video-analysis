@@ -3,8 +3,7 @@
 [YouTube Trending Project]
 
 [Download YouTube Trending Project Power BI file
-
-](https://github.com/swamijanhavi287/YourRepositoryName/raw/main/yt%20project.pbix)
+https://drive.google.com/file/d/1lTswRE54I2iaROYYmHCy0_jbwQqnbhTr/view?usp=sharing
 
 
 
